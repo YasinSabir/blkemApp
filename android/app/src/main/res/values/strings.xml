@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blkem</string>
+    <string name="facebook_app_id">700937680842674</string>
+    <string name="fb_login_protocol_scheme">fb700937680842674</string>
+</resources>

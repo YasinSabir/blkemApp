@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530053740545",
+    "firebase_url": "https://colibri-1fed7.firebaseio.com",
+    "project_id": "colibri-1fed7",
+    "storage_bucket": "colibri-1fed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530053740545:android:d0c012c42450a189fbe800",
+        "android_client_info": {
+          "package_name": "com.skycap.colibri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530053740545-17df0cgn1gvqj7i6c5uogfeahk076p3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skycap.colibri",
+            "certificate_hash": "1aa1cebd70f98dbdcd60ac4f43be9c4d4b659b28"
+          }
+        },
+        {
+          "client_id": "530053740545-7c7cslnv0jj152fprspcvisuh3754ha8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeAheoCW_KNqejv41Qij9DVgtzw9xWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530053740545-7c7cslnv0jj152fprspcvisuh3754ha8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
